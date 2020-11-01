@@ -49,10 +49,13 @@ table {
 
 
 
-
-
-
 /*Site CSS Begins Here*/
+
+body{
+    margin-top:5rem;
+}
+
+
 /*NavBar Head*/
 
 header{
